@@ -1,6 +1,3 @@
-# MultiCloudManager_bin
-MultiCloudManager 二进制发布是一款多云主机管理程序,用于本地管理多种云服务,适应于运维人员与红队人员.欢迎提出问题.本工具主要用于运维管理和安全渗透测试,作者不对工具造成的任何问题负责.使用前请了解自己在做什么.
-
 **MultiCloudManager v1.1.0 - 发布版 README**
 
 统一管理 10 个云平台资源的跨平台桌面应用
@@ -12,10 +9,7 @@ Windows 10+ | macOS 10.15+ | Linux (Ubuntu 18.04+)
 AWS · Azure · Google Cloud · 阿里云 · 腾讯云 · 华为云 · Oracle Cloud · DigitalOcean · Vultr · Cloudflare
 
 **下载地址**  
-(请替换为实际发布链接)  
-- Windows: MultiCloudManager-1.1.0-setup.exe (安装版) | MultiCloudManager-1.1.0-portable.zip  
-- macOS: MultiCloudManager-1.1.0.dmg | MultiCloudManager-1.1.0.zip  
-- Linux: MultiCloudManager-1.1.0.AppImage | MultiCloudManager-1.1.0.deb  
+[MultiCloudManager](https://github.com/bambooqj/MultiCloudManager_bin/releases/download/1.1.0/MultiCloudManager-1.1.0-x64.exe)
 
 **快速开始**  
 1. 下载对应平台的安装包  
